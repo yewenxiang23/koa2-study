@@ -1,0 +1,28 @@
+[2018-07-08T19:29:37.659] [ERROR] cheese - {"projectName":"koa2-study","serverIp":"0.0.0.0","method":"GET","url":"/","host":"localhost:3000","message":"ikcamp","userAgent":"Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Mobile Safari/537.36"}
+[2018-07-08T19:29:37.676] [INFO] cheese - 响应时间为0.018s
+[2018-07-08T19:29:53.457] [ERROR] cheese - {"projectName":"koa2-study","serverIp":"0.0.0.0","method":"GET","url":"/","host":"localhost:3000","message":"ikcamp","userAgent":"Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Mobile Safari/537.36"}
+[2018-07-08T19:29:53.459] [INFO] cheese - 响应时间为0.002s
+[2018-07-08T19:42:00.971] [ERROR] cheese - {"projectName":"koa2-tutorial","serverIp":"192.168.1.7","method":"GET","url":"/","host":"localhost:3000","message":"ikcamp","userAgent":"Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Mobile Safari/537.36"}
+[2018-07-08T19:42:00.989] [INFO] cheese - 响应时间为0.02s
+[2018-07-08T20:29:28.903] [ERROR] cheese - {"projectName":"koa2-tutorial","serverIp":"192.168.1.7","method":"GET","url":"/user","host":"localhost:3000","message":"ikcamp","userAgent":"Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Mobile Safari/537.36"}
+[2018-07-08T20:29:28.994] [INFO] cheese - 响应时间为0.091s
+[2018-07-08T20:29:29.102] [ERROR] cheese - {"projectName":"koa2-tutorial","serverIp":"192.168.1.7","method":"GET","url":"/home/main.css","host":"localhost:3000","message":"ikcamp","referer":"http://localhost:3000/user","userAgent":"Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Mobile Safari/537.36"}
+[2018-07-08T20:29:29.107] [INFO] cheese - 响应时间为0.006s
+[2018-07-08T20:29:36.135] [ERROR] cheese - {"projectName":"koa2-tutorial","serverIp":"192.168.1.7","method":"GET","url":"/","host":"localhost:3000","message":"ikcamp","userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36"}
+[2018-07-08T20:29:36.138] [INFO] cheese - 响应时间为0.003s
+[2018-07-08T20:29:49.161] [ERROR] cheese - {"projectName":"koa2-tutorial","serverIp":"192.168.1.7","method":"GET","url":"/","host":"localhost:3000","message":"ikcamp","userAgent":"Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Mobile Safari/537.36"}
+[2018-07-08T20:29:49.181] [INFO] cheese - 响应时间为0.02s
+[2018-07-08T20:29:50.663] [ERROR] cheese - {"projectName":"koa2-tutorial","serverIp":"192.168.1.7","method":"GET","url":"/","host":"localhost:3000","message":"ikcamp","userAgent":"Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Mobile Safari/537.36"}
+[2018-07-08T20:29:50.665] [INFO] cheese - 响应时间为0.003s
+[2018-07-08T20:29:56.403] [ERROR] cheese - {"projectName":"koa2-tutorial","serverIp":"192.168.1.7","method":"GET","url":"/dsadas","host":"localhost:3000","message":"ikcamp","userAgent":"Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Mobile Safari/537.36"}
+[2018-07-08T20:29:56.405] [INFO] cheese - 响应时间为0.002s
+[2018-07-08T20:31:38.202] [ERROR] cheese - {"projectName":"koa2-tutorial","serverIp":"192.168.1.7","method":"GET","url":"/dsadas","host":"localhost:3000","message":"ikcamp","userAgent":"Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Mobile Safari/537.36"}
+[2018-07-08T20:31:38.217] [INFO] cheese - 响应时间为0.015s
+[2018-07-08T20:31:47.211] [ERROR] cheese - {"projectName":"koa2-tutorial","serverIp":"192.168.1.7","method":"GET","url":"/dsadas","host":"localhost:3000","message":"ikcamp","userAgent":"Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Mobile Safari/537.36"}
+[2018-07-08T20:31:47.232] [INFO] cheese - 响应时间为0.023s
+[2018-07-08T20:31:47.499] [ERROR] cheese - {"projectName":"koa2-tutorial","serverIp":"192.168.1.7","method":"GET","url":"/dsadas","host":"localhost:3000","message":"ikcamp","userAgent":"Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Mobile Safari/537.36"}
+[2018-07-08T20:31:47.501] [INFO] cheese - 响应时间为0.002s
+[2018-07-08T20:40:40.649] [ERROR] cheese - {"projectName":"koa2-tutorial","serverIp":"192.168.1.7","method":"GET","url":"/user","host":"localhost:3000","message":"ikcamp","userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36"}
+[2018-07-08T20:40:40.724] [INFO] cheese - 响应时间为0.076s
+[2018-07-08T20:40:40.878] [ERROR] cheese - {"projectName":"koa2-tutorial","serverIp":"192.168.1.7","method":"GET","url":"/home/main.css","host":"localhost:3000","message":"ikcamp","referer":"http://localhost:3000/user","userAgent":"Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Mobile Safari/537.36"}
+[2018-07-08T20:40:40.887] [INFO] cheese - 响应时间为0.01s
